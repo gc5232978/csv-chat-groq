@@ -13,6 +13,7 @@ python = "^3.10"
 streamlit = "^1.35.0"
 langchain-groq = "^0.1.4"
 langchain-experimental = "^0.0.59"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
