@@ -1,4 +1,5 @@
 import os
+import tabulate
 import streamlit as st
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
