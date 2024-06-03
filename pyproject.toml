@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "csv-chat-groq"
+version = "0.1.0"
+description = "Chat with a CSV file using Groq, Llama3, and NLP"
+authors = ["gc5232978 <gc5232978@gmail.com>"]
+readme = "README.md"
+license = "LICENSE.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.35.0"
+langchain-groq = "^0.1.4"
+langchain-experimental = "^0.0.59"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
