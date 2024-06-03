@@ -32,3 +32,7 @@ streamlit run main.py
 "What month has the highest sales?"
 "How many people live in Alaska?"
 ``` 
+### Streamlit Demo
+```
+https://csv-chat-groq.streamlit.app/
+```
